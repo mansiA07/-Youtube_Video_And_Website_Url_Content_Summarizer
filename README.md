@@ -9,7 +9,7 @@ This Streamlit app allows users to summarize content from either a YouTube video
 
 📋 Fetches YouTube transcripts or webpage content
 
-💬 Uses Groq’s LLMs like llama3-8b-8192
+💬 Uses Groq’s LLMs like llama3-8-81
 
 🧠 Generates point-wise summaries in natural, simple language
 
